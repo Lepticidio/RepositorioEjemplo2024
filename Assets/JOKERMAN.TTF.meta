@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 46c7e4812c2ffbd4f94a7704bb91a18c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Jokerman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c9f2a3bc1631fd4780913da5b871d0b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
